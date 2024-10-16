@@ -1,4 +1,4 @@
-class Task118 {
+public class Task118 {
 
     public static void main(String[] args) {
          int[] numbers = {
