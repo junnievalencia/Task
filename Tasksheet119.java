@@ -36,7 +36,8 @@ public class Tasksheet119 {
         if (Double.isNaN(quotient)) {
             System.out.println("Division: Division by zero is not allowed.");
         } else {
-            System.out.printf("Division: %.2f%n", quotient);
+            System.out.println("Division: " + quotient);
+
         }
         
         scanner.close();
