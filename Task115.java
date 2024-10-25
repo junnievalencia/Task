@@ -1,8 +1,8 @@
 public class Task115 {
     public static void main(String[] args) {
 
-        String a = "Wow";
-        String b = "Wow";
+        String a = "Wows";
+        String b = "Wows";
         String c = "Different";
         String d = b + "!";
 
