@@ -20,7 +20,7 @@ class Book {
     }
 }
 
-public class Tsampl {
+public class Sam {
     public static void main(String[] args) {
         Book firstBook = new Book("Java Programming", "John Smith", 2021, 39.99);
         Book secondBook = new Book("Python Basics", "Jane Doe", 2020, 29.99);
